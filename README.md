@@ -3,6 +3,8 @@ Network_Intrusion_Detection using Machine Learning
 
 This submission is part of Udacity Project - Write a Data Science Blog Post (Write a Data Science Blog Post)
 
+Author - Ramkumar M , Email - ramdatac20@gmail.com
+
 # Abstract 
 
 Network intrusion and fraudulent transactions are gaining traction due to technology advancement. It is necessary to identify these threats using advanced method such as use of Machine learning frameworks as part of intrusion detection software. These Machine learning frameworks will be trained using the network signatures which are classified into various threat and normal transactions. The train model will be exposed to the network endpoint and receives the network signatures when a transaction happens and classifies them into a threat classes or a normal transaction
