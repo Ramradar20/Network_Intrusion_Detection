@@ -1,5 +1,7 @@
-# Network_Intrusion_Detection
+# Network_Intrusion_Detection 
 Network_Intrusion_Detection using Machine Learning 
+
+This submission is part of Udacity Project - Write a Data Science Blog Post (Write a Data Science Blog Post)
 
 # Abstract 
 
